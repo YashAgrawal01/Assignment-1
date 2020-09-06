@@ -1,5 +1,5 @@
 # Assignment 1
-This is the first CS648 Assignment. It is about [Vecta Corportion](https://github.com/YashAgrawal01/Assignment-1/index.html)
+This is the first CS648 Assignment. It is about Vecta Corporation.
 
 ## Vecta Corporation 
  Vecta Corporation provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. Our approach stems from the three most important business growth aspects: helping companies reach prospects, assist in converting prospects to customers, and assist in retaining those customers. This is accomplished through our interactive solutions and expertise in providing a memorable and positive user experience. 
